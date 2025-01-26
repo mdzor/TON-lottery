@@ -51,3 +51,8 @@ await contract.send({
        .endCell()
 });
 \```
+
+## Todo
+- Handle random number generation within the contract instead of owner input
+- Make minimum deposit amount configurable by owner
+- Add pause/unpause functionality for deposits
