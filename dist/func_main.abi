@@ -1,0 +1,1 @@
+{"name":"main","getters":[{"returnTypes":[],"name":"get_owner","parameters":[]},{"returnTypes":[],"name":"get_total_deposited","parameters":[]},{"returnTypes":[],"name":"get_total_tickets","parameters":[]},{"returnTypes":[],"name":"get_user_chances","parameters":[{"type":"slice","name":"address"}]}],"setters":[]}
