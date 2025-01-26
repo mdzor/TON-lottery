@@ -25,17 +25,17 @@ A decentralized lottery system on TON blockchain where users can participate by 
 
 ## Development
 
-\```bash
+```bash
 # Run tests
 npm test
 
 # Build contract
 npm run build
-\```
+```
 
 ## Usage Example
 
-\```typescript
+```typescript
 // Deposit 1 TON
 await contract.send({ 
    value: toNano('1'), 
@@ -50,7 +50,7 @@ await contract.send({
        .storeUint(ticketNumber, 32)
        .endCell()
 });
-\```
+```
 
 ## Todo
 - Handle random number generation within the contract instead of owner input
