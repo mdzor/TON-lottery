@@ -25,16 +25,6 @@ A decentralized lottery system on TON blockchain where users can participate by 
 - `get_total_tickets()`: Total tickets issued
 - `get_user_chances(address)`: User's ticket count
 
-## Development
-
-```bash
-# Run tests
-npm test
-
-# Build contract
-npm run build
-```
-
 ## Usage Example
 
 ```typescript
