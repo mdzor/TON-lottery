@@ -1,5 +1,7 @@
 # TON Lottery Smart Contract
 
+![Blueprint Tests](https://img.shields.io/badge/Blueprint%20Tests-passing-success)
+
 A decentralized lottery system on TON blockchain where users can participate by depositing TON coins.
 
 ## Features
